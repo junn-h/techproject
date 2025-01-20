@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Security Camera Project"
+permalink: /Security Camera Project/
 author_profile: true
 ---
 
