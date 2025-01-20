@@ -7,4 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! This is the front page of my website where I post projects. I document everything as I go, and you can find my process from start to finish. 
+Welcome to my website! This is the front page of my website where I post projects. 
+
+### About
+I post the process of my projects, from start to finish, documenting everything as I go. You can find my code, pictures, and explanations in each project. 
