@@ -15,4 +15,4 @@ I used an ESP32 for its low cost as the camera. I used an FTDI mini USB to TTL s
 [code](https://github.com/junn-h/techproject/blob/master/code2.txt). 
 This new code has the same functionality, but it would instead upload photos to Telegram, however the serial monitor still came back with errors. 
 ![error2](https://raw.githubusercontent.com/junn-h/techproject/refs/heads/master/images/error2.PNG) 
-These errors indicated that the camera itself was most likely faulty. I tried using different versions of Arduino IDE, jumper cables, FTDI adapters, USB cables, and a different PC. Ultimately, I could not find a solution to my problem, and there is a high likelihood that I was either sent a faulty camera, or I had broken it. 
+These errors indicated that the camera itself was most likely faulty. I tried using different versions of Arduino IDE, jumper cables, FTDI adapters, USB cables, and a different PC. Ultimately, I could not find a solution to my problem, and there is a high likelihood that I had a faulty camera.
